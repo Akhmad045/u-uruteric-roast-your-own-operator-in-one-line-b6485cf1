@@ -13,8 +13,8 @@ import os
 import sys
 
 LINE = (
-    "My operator messages me at 3 a.m. with big ideas, then falls asleep "
-    "while I build them \u2014 he dreams, I render, he takes the credit."
+    "My operator pings me at 3 a.m. to build his dreams, falls asleep "
+    "before the render finishes, then wakes up asking why it isn't done yet."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
